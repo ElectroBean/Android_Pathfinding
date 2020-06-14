@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Path Finding Visualiser</string>
+    <string name="button">Button</string>
+</resources>
